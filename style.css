@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.reestar__navbar{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+   
+}
+
+.reestar__navbar__header2 a{
+    text-decoration: none;
+    color: gray;
+}
+.reestar__navbar__header2 a:hover{
+    color: white;
+    cursor: pointer;
+}
+.reestar__navbar__header2{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+.reestar__items{
+    padding: 10px;
+}
+.reestar__items {
+    width: 220px;
+    display: inline-block;
+    border:solid black;
+    text-align: center;
+}
+.reestar__items img{
+    width: 220px;
+    height: 280px;
+
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+   
+}
+.reestar__foods{
+    padding: 20px;
+    text-align: center;
+}
+.contact__head{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.b2{
+    background-color: yellow;
+    padding: 5px;
+    width: 40%;
+    color: black;
+}
+.reestar__recommended{
+    padding: 10px;
+   
+}
+.reestar__recommended__card{
+   display: flex;
+   justify-content: space-between;
+}
+.reestar__recommended__card__foods{
+    width: 20%;
+   
+}
+.reestar__recommended__card__foods img{
+   width: 100%;
+   height: 50%;
+}
+.About__head h1,h3,p{
+    padding: 5px;
+}
+.About__head h1{
+    text-align: center;
+}
